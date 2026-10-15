@@ -78,7 +78,7 @@ The dataset consists of three main tables:
 - Several **high-revenue** items **suffer** from severe **negative profits**, such as the **Lexmark MX611dhe Monochrome Laser Printer** results in a net loss of **-$4,590** at a **-27.27%** profit margin. Other loss-makers include the **Bevis Conference Table** (**-$2,684 loss at -12.95%**) and the **Cisco TelePresence System EX90** (**-$1,811 loss at -8.00%**). -> Cost structures must be **audited** immediately, **pricing adjusted**, or loss-making items **discontinued**.
 - Multiple items achieve profit margins near 49–50% (such as the **Ativa V4110MDD Shredder**). -> **Cross-selling** these high-margin items alongside core products can successfully **boost** net profitability.
 
-## VI. Conclusions & Recommendations
+## VII. Conclusions & Recommendations
 ### 1. Conclusions
 - Revenue and profits scaled **successfully** (**$10M–$13M** sales, **$1M** profit), but profit margins **stayed flat** (**~11.6%**), driven by higher order volume rather than operational efficiency.
 - The **US**, **APAC**, and **Technology products** (specifically **Phones** and **Copiers**) dominate overall revenue and profit generation.
