@@ -1,4 +1,4 @@
-# [POWER BI] Global-Superstore-Sales-and-Market-Analysis
+# [POWER BI] Global Superstore Sales and Market Analysis
 ## I. Introduction
 This project uses **Power BI** to analyze Global Superstore’s sales performance, profitability, customer ordering behavior, and product returns across different markets and product categories. The interactive dashboard provides **an overview of business performance** and enables users to explore trends by time, geography, product, and customer segment to support data-driven decision-making.
 ## II. Objectives
